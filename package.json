@@ -9,6 +9,7 @@
     "hubot-beer-me": "^0.1.2",
     "hubot-diagnostics": "0.0.1",
     "hubot-espn": "^1.0.3",
+    "hubot-fantasy-football-helper": "^0.1.0",
     "hubot-google-images": "^0.2.5",
     "hubot-google-translate": "^0.2.0",
     "hubot-help": "^0.1.2",
