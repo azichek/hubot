@@ -11,5 +11,6 @@
   "hubot-shipit",
   "hubot-voting",
   "hubot-beer-me",
-  "hubot-scripts-stock"
+  "hubot-scripts-stock",
+  "hubot-espn"
 ]
