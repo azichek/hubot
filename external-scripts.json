@@ -15,5 +15,6 @@
   "hubot-espn",
   "hubot-fantasy-football-helper",
   "hubot-michaelscott",
-  "hubot-movie"
+  "hubot-movie",
+  "hubot-slack-remove-files"
 ]
